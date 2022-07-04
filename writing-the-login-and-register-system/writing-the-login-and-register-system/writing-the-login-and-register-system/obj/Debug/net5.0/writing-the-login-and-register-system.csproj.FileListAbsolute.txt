@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\bin\Debug\net5.0\writing-the-login-and-register-system.exe
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\bin\Debug\net5.0\writing-the-login-and-register-system.deps.json
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\bin\Debug\net5.0\writing-the-login-and-register-system.runtimeconfig.json
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\bin\Debug\net5.0\writing-the-login-and-register-system.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\bin\Debug\net5.0\writing-the-login-and-register-system.dll
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\bin\Debug\net5.0\ref\writing-the-login-and-register-system.dll
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\bin\Debug\net5.0\writing-the-login-and-register-system.pdb
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\obj\Debug\net5.0\writing-the-login-and-register-system.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\obj\Debug\net5.0\writing-the-login-and-register-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\obj\Debug\net5.0\writing-the-login-and-register-system.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\obj\Debug\net5.0\writing-the-login-and-register-system.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\obj\Debug\net5.0\writing-the-login-and-register-system.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\obj\Debug\net5.0\writing-the-login-and-register-system.dll
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\obj\Debug\net5.0\ref\writing-the-login-and-register-system.dll
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\obj\Debug\net5.0\writing-the-login-and-register-system.pdb
+C:\Users\Lenovo\Desktop\writing-the-login-and-register-system\writing-the-login-and-register-system\writing-the-login-and-register-system\obj\Debug\net5.0\writing-the-login-and-register-system.genruntimeconfig.cache
